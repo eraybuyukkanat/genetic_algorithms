@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYjPjqF57/2sfGgLrocNqMC/JufMVDLyx2AEyxxVMllERqk3k9l3KBeTZFO2lPkHzKUYl+99yJh6zNf6qaG35g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eray\\Desktop\\genetikalgoritmalar\\genetikalgoritmalar\\geneticAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eray\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
